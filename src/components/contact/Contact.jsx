@@ -25,10 +25,6 @@ const Contact = () => {
                 <h4>EMAIL:</h4>
                 <p> info@yoursite.com</p>
               </div>
-              <div className='box'>
-                <h4>PHONE:</h4>
-                <p> + 1235 2355 98</p>
-              </div>
             </div>
 
             <form action=''>
